@@ -6,7 +6,8 @@ while True:
     elif CP == "Help()":
         print("""Help() Shows All Commands
 End() Ends The Program
-Error() Shows What Errors Are""")
+Error() Shows What Errors Are
+Echo() Responds With The Input""")
     elif CP == "End()":
         print("Bye Bye!!")
         break
