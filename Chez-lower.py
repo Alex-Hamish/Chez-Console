@@ -20,7 +20,7 @@ Echo() Responds With The Input""")
     elif CP == "error(nie)":
         print("NIE Means There Is A Blank Space In An Input")
     elif CP == "echo()":
-        print("wgrihu")
+        print("ECHO IS BEING TESTED")
     else
         print("NCE")
          
